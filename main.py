@@ -1,5 +1,9 @@
-with open("students.txt", "a") as file:
-    file.write("Arshad\n")
+print("welcome to python")
+print("python is used for development")
+
+
+# with open("students.txt", "a") as file:
+#     file.write("Arshad\n")
 
 
 # with open("students.txt", "w") as file:
