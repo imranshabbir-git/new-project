@@ -4,6 +4,8 @@ print("python is used for development")
 for x in range(5):
     print(x)
 
+print("hello")
+
 
 # with open("students.txt", "a") as file:
 #     file.write("Arshad\n")
